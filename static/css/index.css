@@ -1,0 +1,67 @@
+@import url(css-font/all.css);
+@import url(css-font/all.min.css);
+@import url(css-font/brands.css);
+@import url(css-font/brands.min.css);
+@import url(css-font/fontawesome.css);
+@import url(css-font/fontawesome.min.css);
+@import url(css-font/regular.css);
+@import url(css-font/regular.min.css);
+@import url(css-font/solid.css);
+@import url(css-font/solid.min.css);
+@import url(css-font/svg-with-js.css);
+@import url(css-font/svg-with-js.min.css);
+
+#hero{
+    background: #487BFF;
+    width: 100vw;
+    min-height: 100vh;
+}
+
+#card-container{
+    width: 100%;
+    height: 350px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    margin-top: 190px;
+}
+
+.title{
+    font-family: 'Labrada';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 69px;
+    text-align: center;
+    color: #000000;
+}
+
+#information-container{
+    font-family: 'Labrada';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+}
+
+
+.icon-text-group {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 20px;
+}
+.img {
+    margin-top: 3px;
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    margin-left: 20px;
+}
+
+.img-fluid{
+    margin-left: 50px;
+    margin-top: 20px;
+    width: 150px;
+    height: 150px;
+}
