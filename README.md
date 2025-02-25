@@ -64,5 +64,4 @@ The example below outlines the various elements that make up the Informatory Car
   "photoUrl": "https://example.com/photo.jpg",
   "address": "123 Main St, Springfield",
   "email": "chucknorris@example.com",
-  "additionalInfo": "Expert martial artist and actor."
 }
